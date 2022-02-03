@@ -40,6 +40,11 @@ main {
   flex-direction: column;
 }
 
+.header-statement {
+  color: #ffffff;
+  font-size: 1.2rem;
+}
+
 .park-display > h2 {
   background-color: #734230;
   color: #fcc988;
@@ -86,6 +91,14 @@ main {
   color: #184031;
   font-size: 0.9rem;
   padding: 4px;
+}
+
+.high-rating {
+  color: #3ba17c;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
 }
 
 .rate-button {
